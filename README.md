@@ -1,19 +1,10 @@
-# coding-test-study
+# coding-test
 
 🤖 코딩 테스트 스터디 &amp; 멘토링 저장소 입니다.  
 [백준 그룹 링크](https://www.acmicpc.net/group/19123)
 
 <br/>
 
-### 스터디원
-
-- [강병준](https://github.com/BangDori) : Python
-- [이진우](https://github.com/jinlee1703) : Java
-- [권소희](https://github.com/soooheeee) : Python
-- [변민정](https://github.com/byeon22) : Java
-- [아우신얀](https://github.com/yanni13) : Swift
-- [박다원](https://github.com/daxx0ne) : Java
-- [이재훈](https://github.com/dekoms) : Java
 - [윤강록](https://github.com/h2kangrok) : Swift
 
 <br/>
@@ -35,14 +26,7 @@
 
 |   이름   | 문제                                                                                                                                                                                    |
 | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  강병준  | [21608](https://www.acmicpc.net/problem/21608) [2054](https://www.acmicpc.net/problem/2504) [14500](https://www.acmicpc.net/problem/14500) [1074](https://www.acmicpc.net/problem/1074) |
-|  이진우  | [1790](https://www.acmicpc.net/problem/1790) [14719](https://www.acmicpc.net/problem/14719) [1052](https://www.acmicpc.net/problem/1052)                                                |
-|  권소희  | [15721](https://www.acmicpc.net/problem/15721) [2609](https://www.acmicpc.net/problem/2609) [10870](https://www.acmicpc.net/problem/10870) [1316](https://www.acmicpc.net/problem/1316) |
-|  변민정  | [15721](https://www.acmicpc.net/problem/15721) [2609](https://www.acmicpc.net/problem/2609)                                                                                             |
-| 아우신얀 | [15721](https://www.acmicpc.net/problem/15721) [2609](https://www.acmicpc.net/problem/2609) [10870](https://www.acmicpc.net/problem/10870) [1316](https://www.acmicpc.net/problem/1316) |
-|  박다원  | [2460](https://www.acmicpc.net/problem/2460) [14467](https://www.acmicpc.net/problem/14467)                                                                                             |
-|  이재훈  | [2460](https://www.acmicpc.net/problem/2460)                                                                                                                                            |
-|  윤강록  | [1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040)                  [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           
+|  윤강록  | [1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040)                  [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           [1157](https://www.acmicpc.net/problem/1157)
                                                 |
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
