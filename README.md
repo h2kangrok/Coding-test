@@ -26,8 +26,7 @@
 
 |   이름   | 문제                                                                                                                                                                                    |
 | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  윤강록  | [1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040)                [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           [1157](https://www.acmicpc.net/problem/1157)
-[1296](https://www.acmicpc.net/problem/1296) [1356](https://www.acmicpc.net/problem/1296) [1357](https://www.acmicpc.net/problem/1357) |
+|  윤강록  | [1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040) [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           [1157](https://www.acmicpc.net/problem/1157) [1296](https://www.acmicpc.net/problem/1296) [1356](https://www.acmicpc.net/problem/1296) [1357](https://www.acmicpc.net/problem/1357) [1018](https://www.acmicpc.net/problem/1018)|
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
