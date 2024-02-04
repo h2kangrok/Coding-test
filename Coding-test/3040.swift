@@ -5,7 +5,7 @@
 //  Created by 윤강록 on 11/6/23.
 //
 
-import Foundation
+//import Foundation
 
 //var sum = 0
 //var arr: [Int] = []
