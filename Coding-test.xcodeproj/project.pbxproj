@@ -19,6 +19,7 @@
 		A09960582B518379007D3238 /* 1357.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09960572B518379007D3238 /* 1357.swift */; };
 		A0BEB1532B08D212002E6B94 /* 14467.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BEB1522B08D212002E6B94 /* 14467.swift */; };
 		A0DC0D262AF9DF6A00DEF5F9 /* 1292.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DC0D252AF9DF6A00DEF5F9 /* 1292.swift */; };
+		A0E4F7062B80C70300361666 /* 1181.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E4F7052B80C70300361666 /* 1181.swift */; };
 		A0F2C7452B05AC340005B095 /* 20546.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F2C7442B05AC340005B095 /* 20546.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		A09960572B518379007D3238 /* 1357.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1357.swift; sourceTree = "<group>"; };
 		A0BEB1522B08D212002E6B94 /* 14467.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14467.swift; sourceTree = "<group>"; };
 		A0DC0D252AF9DF6A00DEF5F9 /* 1292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1292.swift; sourceTree = "<group>"; };
+		A0E4F7052B80C70300361666 /* 1181.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1181.swift; sourceTree = "<group>"; };
 		A0F2C7442B05AC340005B095 /* 20546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20546.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -96,6 +98,7 @@
 				A09960572B518379007D3238 /* 1357.swift */,
 				A00D0CFC2B6025280034AE08 /* programmers-86491.swift */,
 				A037A9952B6FFA7C004638FF /* 1018.swift */,
+				A0E4F7052B80C70300361666 /* 1181.swift */,
 			);
 			path = "Coding-test";
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				A0BEB1532B08D212002E6B94 /* 14467.swift in Sources */,
 				A0F2C7452B05AC340005B095 /* 20546.swift in Sources */,
 				A09960582B518379007D3238 /* 1357.swift in Sources */,
+				A0E4F7062B80C70300361666 /* 1181.swift in Sources */,
 				A00956742AF862DF00A0146E /* 3040.swift in Sources */,
 				A01675512B56BC0100AFC9F5 /* 1524.swift in Sources */,
 				A037A9962B6FFA7C004638FF /* 1018.swift in Sources */,
