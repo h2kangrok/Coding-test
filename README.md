@@ -33,6 +33,7 @@
 [1676](https://www.acmicpc.net/problem/1676)
 [1874](https://www.acmicpc.net/problem/1676)
 [1920](https://www.acmicpc.net/problem/1920)
+[1929](https://www.acmicpc.net/problem/1920)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
