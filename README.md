@@ -35,6 +35,7 @@
 [1920](https://www.acmicpc.net/problem/1920)
 [1929](https://www.acmicpc.net/problem/1920)
 [1966](https://www.acmicpc.net/problem/1966)
+[1978](https://www.acmicpc.net/problem/1978)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
