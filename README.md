@@ -37,6 +37,7 @@
 [1966](https://www.acmicpc.net/problem/1966)
 [1978](https://www.acmicpc.net/problem/1978)
 [2108](https://www.acmicpc.net/problem/2108)
+[2164](https://www.acmicpc.net/problem/2164)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
