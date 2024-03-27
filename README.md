@@ -40,6 +40,7 @@
 [2164](https://www.acmicpc.net/problem/2164)
 [2231](https://www.acmicpc.net/problem/2231)
 [2292](https://www.acmicpc.net/problem/2292)
+[2609](https://www.acmicpc.net/problem/2609)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
