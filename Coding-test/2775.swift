@@ -6,9 +6,8 @@
 //
 
 //import Foundation
-//
+
 //var cache = [[Int]](repeating: [Int](repeating: 0, count: 15), count: 15)
-//print(cache)
 //for i in 1...14 {
 //    cache[0][i] = i
 //    cache[i][1] = 1
