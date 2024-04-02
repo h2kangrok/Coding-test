@@ -1,8 +1,9 @@
 //
-//  main.swift
+//  4153.swift
 //  Coding-test
 //
-//  Created by 윤강록 on 11/4/23.
+//  Created by 윤강록 on 4/2/24.
+//
 
 //import Foundation
 //
@@ -11,19 +12,17 @@
 //    let a = inputs[0]
 //    let b = inputs[1]
 //    let c = inputs[2]
-//    
+//
 //    // a,b,c가 0 0 0이면 탈출
-//    
+//
 //    guard a+b+c != 0 else {break}
-//    
+//
 //    if pow(a, 2) + pow(b, 2) == pow(c, 2) {
 //        print("right")
 //    } else {
 //        print("wrong")
 //    }
 //}
-
-
 
 
 // 입력 3번
@@ -47,4 +46,5 @@
 //}
 //
 //print(result.map { String($0) }.joined(separator: "\n"))
+
 
