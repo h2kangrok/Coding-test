@@ -13,6 +13,7 @@
 		A00A3BFB2B4C48CA00433AEB /* 1157.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A3BFA2B4C48CA00433AEB /* 1157.swift */; };
 		A00D0CFD2B6025280034AE08 /* programmers-86491.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00D0CFC2B6025280034AE08 /* programmers-86491.swift */; };
 		A00D0ECC2BC123A800115998 /* 9012.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00D0ECB2BC123A800115998 /* 9012.swift */; };
+		A00D0ECE2BC1395200115998 /* 10773.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00D0ECD2BC1395200115998 /* 10773.swift */; };
 		A010F5E02BB70A7A00F725FC /* 2775.swift in Sources */ = {isa = PBXBuildFile; fileRef = A010F5DF2BB70A7A00F725FC /* 2775.swift */; };
 		A010F5E22BB82DFD00F725FC /* 2798.swift in Sources */ = {isa = PBXBuildFile; fileRef = A010F5E12BB82DFD00F725FC /* 2798.swift */; };
 		A01675512B56BC0100AFC9F5 /* 1524.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01675502B56BC0100AFC9F5 /* 1524.swift */; };
@@ -68,6 +69,7 @@
 		A00A3BFA2B4C48CA00433AEB /* 1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1157.swift; sourceTree = "<group>"; };
 		A00D0CFC2B6025280034AE08 /* programmers-86491.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "programmers-86491.swift"; sourceTree = "<group>"; };
 		A00D0ECB2BC123A800115998 /* 9012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9012.swift; sourceTree = "<group>"; };
+		A00D0ECD2BC1395200115998 /* 10773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10773.swift; sourceTree = "<group>"; };
 		A010F5DF2BB70A7A00F725FC /* 2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2775.swift; sourceTree = "<group>"; };
 		A010F5E12BB82DFD00F725FC /* 2798.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2798.swift; sourceTree = "<group>"; };
 		A01675502B56BC0100AFC9F5 /* 1524.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1524.swift; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				A0A4902C2BBE431D00E1FFCA /* 4949.swift */,
 				A0A4902E2BC0183900E1FFCA /* 7568.swift */,
 				A00D0ECB2BC123A800115998 /* 9012.swift */,
+				A00D0ECD2BC1395200115998 /* 10773.swift */,
 			);
 			path = "Coding-test";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				A0E04A1A2BADD387008ABF61 /* 2108.swift in Sources */,
 				A009564F2AF63CAE00A0146E /* 1316.swift in Sources */,
 				A0E6C2DC2BB4429700D80FE1 /* 2609.swift in Sources */,
+				A00D0ECE2BC1395200115998 /* 10773.swift in Sources */,
 				A00956482AF63C9E00A0146E /* main.swift in Sources */,
 				A06937CB2BB570A100A0FC8B /* 2751.swift in Sources */,
 				A028E6922BA3573A00234D57 /* 1676.swift in Sources */,
