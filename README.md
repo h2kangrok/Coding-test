@@ -50,6 +50,8 @@
 [10845](https://www.acmicpc.net/problem/10845)
 [10866](https://www.acmicpc.net/problem/10866)
 [10989](https://www.acmicpc.net/problem/10989)
+[11050](https://www.acmicpc.net/problem/11050)
+
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
