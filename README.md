@@ -58,7 +58,7 @@
 [18110](https://www.acmicpc.net/problem/18110)
 [18111](https://www.acmicpc.net/problem/18111)
 [1003](https://www.acmicpc.net/problem/1003)
-
+[1012](https://www.acmicpc.net/problem/1012)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
