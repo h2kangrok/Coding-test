@@ -7,50 +7,6 @@
 
 //import Foundation
 
-// MARK: 재귀함수
-//N, r, c = map(int, input().split())
-//
-//def sol(N, r, c):
-//
-//    if N == 0:
-//        return 0
-//
-//    return 2*(r%2)+(c%2) + 4*sol(N-1, int(r/2), int(c/2))
-//
-//print(sol(N, r, c))
-
-
-//MARK: 분할법
-//N, r, c = map(int, input().split())
-//
-//ans = 0
-//
-//while N != 0:
-//
-//    N -= 1
-//
-//    # 제2사분면
-//    if r < 2 ** N and c < 2 ** N:
-//        ans += ( 2 ** N ) * ( 2 ** N ) * 0
-//
-//    # 제1사분면
-//    elif r < 2 ** N and c >= 2 ** N:
-//        ans += ( 2 ** N ) * ( 2 ** N ) * 1
-//        c -= ( 2 ** N )
-//
-//    # 제3사분면
-//    elif r >= 2 ** N and c < 2 ** N:
-//        ans += ( 2 ** N ) * ( 2 ** N ) * 2
-//        r -= ( 2 ** N )
-//
-//    # 제4사분면
-//    else:
-//        ans += ( 2 ** N ) * ( 2 ** N ) * 3
-//        r -= ( 2 ** N )
-//        c -= ( 2 ** N )
-//
-//print(ans)
-
 //MARK: 시간초과
 
 //// 첫째 줄에 정수 N, r, c가 주어진다.
