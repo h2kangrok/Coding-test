@@ -61,6 +61,7 @@
 [1012](https://www.acmicpc.net/problem/1012)
 [1074](https://www.acmicpc.net/problem/1074)
 [1107](https://www.acmicpc.net/problem/1107)
+[1260](https://www.acmicpc.net/problem/1260)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
