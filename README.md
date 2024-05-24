@@ -70,6 +70,7 @@
 [2563](https://www.acmicpc.net/problem/2563)
 [1475](https://www.acmicpc.net/problem/1475)
 [25206](https://www.acmicpc.net/problem/25206)
+[2167](https://www.acmicpc.net/problem/2167)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
