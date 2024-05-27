@@ -17,6 +17,7 @@
 
 ## 문제 풀이 현황
 
+### 백준
 [1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040) [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           [1157](https://www.acmicpc.net/problem/1157) [1296](https://www.acmicpc.net/problem/1296) [1356](https://www.acmicpc.net/problem/1296) [1357](https://www.acmicpc.net/problem/1357)    [1018](https://www.acmicpc.net/problem/1018)
 [1259](https://www.acmicpc.net/problem/1259)
 [1181](https://www.acmicpc.net/problem/1181)
@@ -74,6 +75,10 @@
 [1244](https://www.acmicpc.net/problem/1244)
 [17413](https://www.acmicpc.net/problem/17413)
 [2960](https://www.acmicpc.net/problem/2960)
+
+###프로그래머스
+[86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+[12916](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
