@@ -76,7 +76,7 @@
 [17413](https://www.acmicpc.net/problem/17413)
 [2960](https://www.acmicpc.net/problem/2960)
 
-###프로그래머스
+### 프로그래머스
 [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 [12916](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 
