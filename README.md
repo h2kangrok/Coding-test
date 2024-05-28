@@ -79,6 +79,7 @@
 ### 프로그래머스
 [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 [12916](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+[12931](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
