@@ -87,6 +87,7 @@
 [176962](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 [172927](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
 [172928](https://school.programmers.co.kr/learn/courses/30/lessons/172928)
+[161989](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
