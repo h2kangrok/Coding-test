@@ -1,9 +1,8 @@
 # coding-test
 
-
 <br/>
 
-- [윤강록](https://github.com/h2kangrok) : Swift
+- [윤강록](https://github.com/h2kangrok) : Python, Swift
 
 <br/>
 
@@ -15,10 +14,21 @@
   - 자신만의 문제 풀이 시간 정하고, 그 이상의 시간이 소모되면 블로그를 참조해도 무방.
   - 다른 블로그를 참고하게 되면, 해당 내용을 완벽하게 자신의 것으로 만들기
 
-## 문제 풀이 현황
+# 문제 풀이 현황
+
+## Python
 
 ### 백준
-[1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040) [20546](https://www.acmicpc.net/problem/3040)     [14467](https://www.acmicpc.net/problem/14467)           [1157](https://www.acmicpc.net/problem/1157) [1296](https://www.acmicpc.net/problem/1296) [1356](https://www.acmicpc.net/problem/1296) [1357](https://www.acmicpc.net/problem/1357)    [1018](https://www.acmicpc.net/problem/1018)
+
+[11723](https://www.acmicpc.net/problem/11723)
+
+<br><br/>
+
+## Swift
+
+### 백준
+
+[1316](https://www.acmicpc.net/problem/1316) [3040](https://www.acmicpc.net/problem/3040) [1292](https://www.acmicpc.net/problem/3040) [20546](https://www.acmicpc.net/problem/3040) [14467](https://www.acmicpc.net/problem/14467) [1157](https://www.acmicpc.net/problem/1157) [1296](https://www.acmicpc.net/problem/1296) [1356](https://www.acmicpc.net/problem/1296) [1357](https://www.acmicpc.net/problem/1357) [1018](https://www.acmicpc.net/problem/1018)
 [1259](https://www.acmicpc.net/problem/1259)
 [1181](https://www.acmicpc.net/problem/1181)
 [1436](https://www.acmicpc.net/problem/1436)
@@ -78,6 +88,7 @@
 [30802](https://www.acmicpc.net/problem/30802)
 
 ### 프로그래머스
+
 [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 [12916](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 [12931](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
@@ -93,6 +104,7 @@
 [159994](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
 [161990](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 
+<br><br/>
 
 ## 문제 풀이 정리할 때 포함되어야 하는 내용들
 
